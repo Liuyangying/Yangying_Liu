@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "CSE 17: Programming and Data Structures"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Lehigh University, Computer Science & Engineering Department"
+date: 2022
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Algorithmic design and implementation in a high level, object-oriented language such as JAVA. Classes, subclasses, recursion, searching, sorting, linked lists, trees, stacks, queues.
 
 Heading 1
 ======
