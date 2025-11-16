@@ -4,7 +4,7 @@ collection: teaching
 type: "TA"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Introduction to Programming"
-date: 2024-08-027
+date: 2024-08-27
 location: "City, Country"
 ---
 
