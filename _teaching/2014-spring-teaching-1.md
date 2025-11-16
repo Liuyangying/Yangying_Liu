@@ -1,9 +1,9 @@
 ---
 title: "CSE 17"
 collection: teaching
-type: "Undergraduate course"
+type: "TA"
 permalink: /teaching/2014-spring-teaching-1
-venue: "TA, Programming and Data Structures"
+venue: "Programming and Data Structures"
 date: 2022-1-24
 location: "City, Country"
 ---
